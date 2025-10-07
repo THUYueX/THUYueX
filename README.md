@@ -1,16 +1,20 @@
-## Hi there 👋
+I am currently a second-year master's student at Tsinghua Shenzhen International Graduate School (SIGS), specializing in Artificial Intelligence. As a non-CS major student navigating the field through self-directed learning, I am actively exploring cutting-edge research under limited academic guidance.
 
-<!--
-**THUYueX/THUYueX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Previously, I completed my undergraduate studies in [Mechincal Engineering] at [NorthEastern University].
 
-Here are some ideas to get you started:
+🔭 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Large Language Models (LLMs) and Multimodal AI
+Search & Recommendation Systems
+AI-powered Information Retrieval
+💼 Industry Experience
+
+Recommendation Algorithm Intern @ SOUL (Beijing Zhongguancun)
+
+Developed and optimized recommendation strategies for social content platform
+Implemented recall and ranking models for personalized feeds
+🌱 Currently
+
+Seeking my second industry internship in AI/LLM/Search & Recommendation
+Self-studying advanced techniques in large language models and recommendation systems
+Building personal projects to strengthen practical AI skills
