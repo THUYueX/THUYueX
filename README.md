@@ -1,4 +1,4 @@
-I am currently a second-year master's student at Tsinghua Shenzhen International Graduate School (SIGS), specializing in Artificial Intelligence. As a non-CS major student navigating the field through self-directed learning, I am actively exploring cutting-edge research under limited academic guidance.
+I am currently a second-year master's student at Tsinghua University, specially devoting in Artificial Intelligence as a non-CS major student.
 
 Previously, I completed my undergraduate studies in [Mechincal Engineering] at [NorthEastern University].
 
