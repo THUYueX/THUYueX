@@ -1,20 +1,33 @@
-I am currently a second-year master's student at Tsinghua University, specially devoting in Artificial Intelligence as a non-CS major student.
+# 👋 About Me
 
-Previously, I completed my undergraduate studies in [Mechincal Engineering] at [NorthEastern University].
+I am a second-year Master's student at **Tsinghua University**, pivoting into **Artificial Intelligence** from a non-CS background. I was admitted in **2024 via a merit-based recommendation program** after completing my Bachelor's degree in **Mechanical Engineering** at **Northeastern University**
 
-🔭 Current Focus
+---
 
-Large Language Models (LLMs) and Multimodal AI
-Search & Recommendation Systems
-AI-powered Information Retrieval
-💼 Industry Experience
+## 🔬 Research Interests
 
-Recommendation Algorithm Intern @ SOUL (Beijing Zhongguancun)
+My academic focus is now centered on the frontiers of AI:
 
-Developed and optimized recommendation strategies for social content platform
-Implemented recall and ranking models for personalized feeds
-🌱 Currently
+- **Large Language Models (LLMs) & Multimodal AI**
+- **Search & Recommendation Systems**
+- **AI-powered Information Retrieval**
 
-Seeking my second industry internship in AI/LLM/Search & Recommendation
-Self-studying advanced techniques in large language models and recommendation systems
-Building personal projects to strengthen practical AI skills
+---
+
+## 💼 Industry Experience
+
+### Recommendation Algorithm Intern | SOUL App
+
+---
+
+## 🚀 Current Focus
+
+- **Actively seeking my second industry internship** in AI/LLM/Search & Recommendation.
+- **Self-studying advanced techniques** in large language models and recommendation systems to rapidly close the gap with CS fundamentals.
+- **Building hands-on projects** to solidify my understanding and demonstrate practical competency in AI.
+
+---
+
+## 📫 Get In Touch
+
+I am eagerly looking for my next challenge in the AI field and am open to discussions about internship opportunities or collaborative projects. Let's connect!
