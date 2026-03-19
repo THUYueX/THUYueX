@@ -18,7 +18,7 @@ My academic focus is now centered on the frontiers of AI:
 
 ## 💼 Industry Experience
 
-### LLM Intern ｜ BaiDu
+### LLM Intern ｜ Baidu
 *2026.03 – current*
 
 ### AI Agent Intern | ByteDance
